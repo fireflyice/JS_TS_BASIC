@@ -1,3 +1,5 @@
+const ten: string
+
 // let diemHienTai: string = "10";
 // let bonus: number = 50;
 // let totalScore: number = Number(diemHienTai) + bonus;
