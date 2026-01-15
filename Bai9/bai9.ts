@@ -1,4 +1,4 @@
-const ten: string
+const ten: string = ""
 
 // let diemHienTai: string = "10";
 // let bonus: number = 50;
